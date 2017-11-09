@@ -1,11 +1,10 @@
-Highlights by HTML5 UP
+Arcana by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
+A business/corporate style responsive site template. It's pretty barebones but should
+go over pretty well for folks wanting to get their serious business on.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
@@ -31,5 +30,8 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
+		jquery.dropotron (@ajlkn)
 		Skel (skel.io)
